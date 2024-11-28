@@ -5,8 +5,8 @@ Welcome to my GitHub profile!
 ## About Me
 - 🌱 I’m currently learning new technologies and improving my skills.
 - 👯 I’m looking to collaborate on exciting projects.
-- 💬 Ask me about web development, Python, or any tech-related topic.
-- 📫 How to reach me: [nadun.kaveesha@example.com](mailto:nadun.kaveesha@example.com)
+- 💬 Ask me about DevOps, Web Development or Java based projects
+- 📫 How to reach me: [nadunkaveesha2018@gmail.com](mailto:nadunkaveesha2018@gmail.com)
 
 ## Skills
 - **Languages**: Java, JavaScript, Python
